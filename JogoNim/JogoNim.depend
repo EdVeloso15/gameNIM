@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1556848550 source:c:\users\nicoly régia\desktop\apc 1\jogonim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1556880891 c:\users\nicoly régia\desktop\apc 1\jogonim\interface.h
+
+1560899516 source:c:\users\jose_\desktop\jogonim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1560901075 c:\users\jose_\desktop\jogonim\interface.h
+
+1562029261 source:c:\users\eduar\desktop\jogonim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"gamecontroller.h"
+
+1562015228 c:\users\eduar\desktop\jogonim\interface.h
+
+1562029729 c:\users\eduar\desktop\jogonim\gamecontroller.h
+	<time.h>
+	<math.h>
+
